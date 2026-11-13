@@ -1,0 +1,19 @@
+{
+  "name": "personalized-learning-management-system",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces --parallel",
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "start": "npm run start --workspaces --parallel"
+  },
+  "engines": {
+    "node": ">=22.18.0",
+    "npm": ">=10.8.0"
+  }
+}

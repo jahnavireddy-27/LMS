@@ -165,3 +165,20 @@ The backend includes tests covering:
 - API integration.
 
 Run the test suite using the scripts configured in the server's `package.json`.
+
+<img width="1464" height="803" alt="image" src="https://github.com/user-attachments/assets/0b35e4ef-d107-4cd4-9bf2-7e7313ed9387" />
+
+<img width="1466" height="838" alt="image" src="https://github.com/user-attachments/assets/2fd91587-d030-4178-afb6-3b7d297f5622" />
+
+<img width="1466" height="883" alt="image" src="https://github.com/user-attachments/assets/d08df869-a956-4ce5-9a00-49f8a4ad8ca4" />
+
+<img width="1468" height="707" alt="image" src="https://github.com/user-attachments/assets/2b594b6d-1559-4e77-9bc9-3c04633009ab" />
+
+<img width="1470" height="846" alt="image" src="https://github.com/user-attachments/assets/9157a678-8f18-4b08-81fd-46a81590dcda" />
+
+<img width="1466" height="840" alt="image" src="https://github.com/user-attachments/assets/e62b3e0c-e2dc-48f0-b963-fe9517adf771" />
+
+
+
+
+
